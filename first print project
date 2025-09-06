@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+    printf("My name is Marco.\n");
+    printf("Although I usually would rather code in Python, I am currently writing this in C to start learning a new language. \n");
+    return 0;
+}
